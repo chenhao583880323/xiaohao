@@ -1,2 +1,2 @@
 # xiaohao
-Just study
+Just study    .net   java
